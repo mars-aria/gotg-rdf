@@ -1,1 +1,3 @@
-# gotg-rdf-tutorial
+# Gotg RDF Tutorial
+An example of how to store descriptive information about fictional marvel comic book characters using the markup language XML. Includes an original RDF document describing the Classes and Properties belonging to characters from the
+Guardians of the Galaxy (GOTG) as well as origin/background details that fans of the movies may not have known about their favorite characters, especially if they do not follow the comics. There's also an RDF Schema file along with Powerpoint slides showing validated Truples and an image of the resulting Graph Model as displayed on the W3C Validation Service website (https://www.w3.org/RDF/Validator/).
